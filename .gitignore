@@ -1,0 +1,11 @@
+z*
+z*.*
+zzJunk
+*.log
+.ipynb_checkpoints
+__pycache__
+ibkr
+snop
+venv
+.idea
+*.xlsx
